@@ -1,0 +1,9 @@
+name: commandor
+version: 0.1.0
+
+authors:
+  - dmitry <dmitry>
+
+crystal: 0.30.1
+
+license: MIT
